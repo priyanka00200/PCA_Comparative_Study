@@ -1,6 +1,7 @@
 # A Comparative Study of Principal Component Analysis’ Impact on Performance Metrics of Regression Models
 
 Project done for the course Math 451 (Math Seminar) in B.Sc. in Computational Mathematics at Kathmandu University.
+
 Course Instrutor : Prof. Dr. Kanhaiya Jha
 
 ### Team Members
@@ -23,7 +24,9 @@ involves collecting applicable datasets, handling missing values, and normalizin
 By comparing baseline regression models with those augmented by PCA, the study aims
 to focus on the performance improvement, insights into dimensionality reduction, and a
 clearer understanding of computational efficiency.
+
 **Keywords** : PCA, Mean Square Error, dimensionality redution, R-squared.
+
 
 Please see report for more details.
 ---
